@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    padding:0;
+}
+.barou{
+    background-image: url(/images/images/image\ font.jpg );
+    height: 400PX;
+    padding-top: 10PX;
+    background-size: cover;
+    
+    
+
+    background-position: center;
+    
+}
+form {
+    /* background-color: blueviolet; */
+    width: 100%;
+    
+    margin-top: 60PX;
+    display: flex;
+    
+    justify-content: center;
+    
+
+}
+
+button {
+    width: 150px;
+    height: 50PX;
+    margin-top: 1px;
+    border-radius: 25px;
+    
+    
+} 
+ p {
+    text-align: center; 
+    margin-top: é0PX;
+} 
+
+
+.aicha {
+    margin-left: 30PX;
+}
+.dadaa{
+    background-color: #336FBB;
+}
+.laura {
+    background-color: #FF6B35;
+    width: 150PX;
+}
+input{
+     
+    border-radius: 30PX;
+    width: 300PX;
+    text-align: center;
+    position: relative;
+}
+.banel{
+    /* background-color: black; */
+    margin-top: 70PX;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+  } 
+  
+  h1 {
+    text-align: center;
+    margin-top: 25PX;
+    
+    
+  }
+  section {
+    margin-top: 1OPX;
+  }
+
+  #carouselExampleControls{
+    width: 35%;
+    margin-top: 50PX;
+    margin-left: 410PX;
+    height: 35PX;
+}
+.carousel-item im{
+    width: 100%;
+    height: auto;
+}
+.carousel-control-prev {
+    margin-top: 130PX;
+}
+.carousel-control-next {
+    margin-top: 130PX;
+
+}
+i {
+    position: absolute;
+    margin-top: 20PX;
+    margin-left: 200PX;
+    height: 100PX;
+    
+}
+.mawa {
+    margin-top: 310PX;
+    /* background-color: aqua; */
+    width: 200PX;
+    border-radius: 40PX;
+    border:  solid black;
+    margin-left: 540PX;
+    
+}
+.diadie {
+    margin-top: 10PX;
+}
+    
+
+    
+
+
+
+    
+
+
